@@ -79,6 +79,6 @@ public class CityList {
     }
 
     public boolean checkEmpty(){
-        return false;
+        return cities.isEmpty();
     }
 }
